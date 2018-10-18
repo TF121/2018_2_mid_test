@@ -1,0 +1,31 @@
+lee dong soo
+
+hkhkdfs
+dusf
+sadhihihi hihihii  gg hhj jkjjhhhh
+khkdfs
+dusf
+s
+khkkhkdfs
+dusf
+sdfs
+dusf
+sdf
+
+fgw
+ddddddd
+p
+whaha dfr
+
+hahaha hihihi hihihii  gg hhj jkjjhhhh
+dfsdf
+dsf
+
+hahaha hihihi hihihii  gg hhj jkjjhhhh
+
+u : 되돌리기(undo). u키를 계속 치게되면, undo 버퍼가 빌 때까지 계속 되돌리기할 수 있음. 유용함
+U : 라인 되돌리기. 한 줄에 대해서 모든 편집을 없던 것으로 하고 원상태로 되돌림
+
+출처: http://yagi815.tistory.com/146 [Programmer]
+
+f
